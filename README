@@ -1,0 +1,127 @@
+# 🛠️ Mechanical Design & Mechatronics Portfolio  
+**Konrad Jaworski**
+
+Engineer focused on building real, working systems — from mechanical design and prototyping to data-driven validation and control integration.
+
+This portfolio showcases projects where design decisions meet physical reality: structures, transmissions, robotics, and experimental measurement systems.
+
+---
+
+## ⚡ What I Do
+
+- Design mechanical systems that are actually buildable
+- Integrate mechanics, electronics, and software into cohesive systems
+- Turn experimental setups into data-driven engineering tools
+- Solve problems where simulation alone is not enough
+
+---
+
+## 📂 Projects
+
+### 🤖 Anthropomorphic Robotic Structure
+
+Biologically inspired robotic structure designed for realistic motion and modular scalability.
+
+**Highlights:**
+- Human-inspired kinematics translated into mechanical design  
+- Modular joints enabling rapid iteration and upgrades  
+- Designed with future control integration in mind  
+
+**Engineering Value:**  
+Understanding how mechanical architecture impacts control, stability, and motion quality
+
+---
+
+### ⚙️ Cycloidal Gearbox
+
+Compact, high-ratio gearbox designed for robustness and manufacturability.
+
+**Highlights:**
+- High torque transmission in a compact form factor  
+- Modular configuration of gear ratios  
+- Designed for 3D printing and rapid prototyping  
+- Geometry optimized for load transfer and durability  
+
+**Engineering Value:**  
+Efficient power transmission with production-aware mechanical design
+
+---
+
+### 🦾 6-Axis Robotic Arm (Proof of Concept)
+
+Full 6-DOF robotic manipulator built as a test platform for robotics systems.
+
+**Highlights:**
+- Complete kinematic chain design  
+- Structural considerations for repeatability and stiffness  
+- Integration-ready architecture for actuators and sensors  
+- Expandable toward control and perception systems  
+
+**Engineering Value:**  
+Bridging mechanical design with real robotic system constraints
+
+---
+
+### 🌡️ Thermography & Hyperspectral Imaging System
+
+Custom-built experimental platform for thermal and spectral data acquisition.
+
+**Highlights:**
+- Active thermography with controlled excitation  
+- Hyperspectral imaging via motorized filter wheels  
+- Synchronization between PC, microcontroller, and sensors  
+- Custom data acquisition and processing pipelines  
+
+**Engineering Value:**  
+Transforming hardware setups into quantitative measurement and modeling tools
+
+---
+
+## 🧠 Engineering Approach
+
+- **System-first thinking**  
+  Design spans mechanics → sensing → data → modeling
+
+- **Prototype early, validate fast**  
+  CAD + 3D printing + experiments → iterate using real data
+
+- **Data is part of the design**  
+  Measurements are treated as a core engineering signal
+
+- **Comfortable with complex problems**  
+  Especially in inverse problems and non-trivial physical systems
+
+---
+
+## 🛠️ Tech Stack
+
+- **CAD:** CATIA (parametric design, assemblies)  
+- **Simulation:** ANSYS (mechanical and thermal)  
+- **Prototyping:** 3D printing  
+- **Programming:** C++, Python  
+- **Embedded Systems:** Raspberry Pi Pico  
+- **Data & Machine Learning:** NumPy, PyTorch  
+
+---
+
+## 🎯 Career Focus
+
+Looking for roles where I can:
+
+- Design real mechanical or mechatronic systems  
+- Work at the intersection of hardware and data  
+- Build prototypes, tools, or products  
+- Contribute to engineering decisions, not just execution  
+
+---
+
+## ⚡ Engineering Philosophy
+
+> If it’s not tested, it’s just an assumption.  
+> If it’s not buildable, it’s just a concept.
+
+---
+
+## 📫 Contact
+
+Open to engineering roles, collaboration, and challenging technical problems.
