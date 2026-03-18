@@ -1,4 +1,4 @@
-##  Mechanical Design & Mechatronics Portfolio  
+# Mechanical Design & Mechatronics Portfolio  
 **Konrad Jaworski**
 
 Engineer focused on building real, working systems — from mechanical design and prototyping to data-driven validation and control integration.
@@ -7,7 +7,7 @@ This portfolio showcases projects where design decisions meet physical reality: 
 
 ---
 
-## ⚡ What I Do
+## What I Do
 
 - Design mechanical systems that are actually buildable
 - Integrate mechanics, electronics, and software into cohesive systems
@@ -16,9 +16,9 @@ This portfolio showcases projects where design decisions meet physical reality: 
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🤖 Anthropomorphic Robotic Structure
+### Anthropomorphic Robotic Structure
 
 Biologically inspired robotic structure designed for realistic motion and modular scalability.
 
@@ -32,7 +32,7 @@ Understanding how mechanical architecture impacts control, stability, and motion
 
 ---
 
-### ⚙️ Cycloidal Gearbox
+### Cycloidal Gearbox
 
 Compact, high-ratio gearbox designed for robustness and manufacturability.
 
@@ -47,7 +47,7 @@ Efficient power transmission with production-aware mechanical design
 
 ---
 
-### 🦾 6-Axis Robotic Arm (Proof of Concept)
+### 6-Axis Robotic Arm (Proof of Concept)
 
 Full 6-DOF robotic manipulator built as a test platform for robotics systems.
 
@@ -62,7 +62,7 @@ Bridging mechanical design with real robotic system constraints
 
 ---
 
-### 🌡️ Thermography & Hyperspectral Imaging System
+### Thermography & Hyperspectral Imaging System
 
 Custom-built experimental platform for thermal and spectral data acquisition.
 
@@ -77,51 +77,44 @@ Transforming hardware setups into quantitative measurement and modeling tools
 
 ---
 
-## 🧠 Engineering Approach
+## Engineering Approach
 
-- **System-first thinking**  
-  Design spans mechanics → sensing → data → modeling
-
-- **Prototype early, validate fast**  
-  CAD + 3D printing + experiments → iterate using real data
-
-- **Data is part of the design**  
-  Measurements are treated as a core engineering signal
-
-- **Comfortable with complex problems**  
-  Especially in inverse problems and non-trivial physical systems
+- System-first thinking  
+- Prototype early, validate fast  
+- Data-driven design decisions  
+- Comfortable with complex engineering problems  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **CAD:** CATIA (parametric design, assemblies)  
-- **Simulation:** ANSYS (mechanical and thermal)  
-- **Prototyping:** 3D printing  
-- **Programming:** C++, Python  
-- **Embedded Systems:** Raspberry Pi Pico  
-- **Data & Machine Learning:** NumPy, PyTorch  
+- CAD: CATIA  
+- Simulation: ANSYS  
+- Prototyping: 3D printing  
+- Programming: C++, Python  
+- Embedded: Raspberry Pi Pico  
+- Data & ML: NumPy, PyTorch  
 
 ---
 
-## 🎯 Career Focus
+## Career Focus
 
 Looking for roles where I can:
 
 - Design real mechanical or mechatronic systems  
 - Work at the intersection of hardware and data  
 - Build prototypes, tools, or products  
-- Contribute to engineering decisions, not just execution  
+- Contribute to engineering decisions  
 
 ---
 
-## ⚡ Engineering Philosophy
+## Engineering Philosophy
 
 > If it’s not tested, it’s just an assumption.  
 > If it’s not buildable, it’s just a concept.
 
 ---
 
-## 📫 Contact
+## Contact
 
 Open to engineering roles, collaboration, and challenging technical problems.
